@@ -1,0 +1,13 @@
+﻿src,dst,username,srcicon,dsticon
+EXCHANGE1,SERVER1,domain\admin1,server.png,server.png
+EXCHANGE1,SERVER2,domain\admin2,server.png,server.png
+EXCHANGE1,SERVER3,domain\admin3,server.png,server.png
+EXCHANGE1,SERVER4,domain\admin4,server.png,server.png
+EXCHANGE1,SERVER5,domain\admin3,server.png,server.png
+SERVER1,DESKTOP1,domain\admin3,server.png,computer.png
+SERVER1,DESKTOP2,domain\admin3,server.png,computer.png
+SERVER1,DESKTOP3,domain\admin3,server.png,computer.png
+SERVER1,DESKTOP4,domain\admin3,server.png,computer.png
+SERVER1,FILESERVER,domain\admin3,server.png,server.png
+SERVER4,FILESERVER,domain\admin3,server.png,server.png
+SERVER4,DESKTOP4,domain\admin3,server.png,computer.png
